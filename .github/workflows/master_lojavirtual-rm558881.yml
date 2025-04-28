@@ -4,7 +4,6 @@
 
 name: Update main_lojavitual1.yml
 
-
 on:
   push:
     branches:
